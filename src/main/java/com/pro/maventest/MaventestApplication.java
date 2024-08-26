@@ -8,7 +8,7 @@ public class MaventestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MaventestApplication.class, args);
-		System.out.println("MaventestApplication 123456");
+		System.out.println("MaventestApplication 1234567");
 	}
 
 }
